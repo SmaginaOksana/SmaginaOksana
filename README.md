@@ -4,7 +4,7 @@ My name is Oksana, and I am a front-end developer with over one year of experien
 
 ## Socials:
 
-[![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://www.instagram.com/smagina_oksi/)
+![Instagram](https://img.icons8.com/color/48/instagram-new.png)(https://www.instagram.com/smagina_oksi/)
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/oksana-smagina-370185346/)
 
 ## Tech Stack:
